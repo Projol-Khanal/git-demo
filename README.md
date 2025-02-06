@@ -1,3 +1,3 @@
 # git-demo
 My first github demo.<br>
-Author- Projol Khanal
+Author- Projol (student)
